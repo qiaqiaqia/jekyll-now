@@ -78,6 +78,10 @@ tags: [common]
     
     [capwap学习笔记——初识capwap](http://www.cnblogs.com/xmphoenix/p/3806844.html)
     
+    [flex+yacc or flex+bison](http://www.cnblogs.com/itech/archive/2012/03/04/2375746.html)
+    
+    [iptables 深度解析：filter篇](http://blog.jobbole.com/89942/)
+    
 6. **网页设计 微博**
 	
     [什么叫做会设计](http://weibo.com/1773655610/DkhJm5ZUW)
